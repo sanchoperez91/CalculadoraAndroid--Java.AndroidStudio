@@ -1,8 +1,6 @@
 # CalculadoraAndroid--Java.AndroidStudio
 # Calculadora Android 📱
 
-![Android Logo](https://upload.wikimedia.org/wikipedia/commons/d/da/Android_robot.svg)
-
 ## Descripción 📝
 
 Este proyecto consiste en una aplicación de calculadora simple desarrollada en Java utilizando Android Studio. La aplicación permite a los usuarios realizar operaciones matemáticas básicas (suma, resta, multiplicación y división) ingresando dos números y seleccionando la operación deseada.
